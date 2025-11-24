@@ -239,9 +239,4 @@ A: Because in binary, "10" means 2 in decimal! The joke is: "There are 10 types 
 ← Previous: [Chapter 3 - Digital Signals](../ch3_digital_signals/) | Next: [Chapter 5 - Number System Conversions](../ch5_conversions/)
 
 ---
-
-## Authorship
-Authored by Maxwell Hauser on November 19, 2025
-
-## License
-MIT License
+<!-- License moved to dedicated LICENSE file -->
